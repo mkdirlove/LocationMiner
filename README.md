@@ -77,7 +77,5 @@ After starting this bot, the bot will send you your numeric telegram id
 <p float="left">
   <img src="/images/prv3.png" width="20%" />
 </p>
-## Fallow us on social media
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abyssalarmy)
 
 
