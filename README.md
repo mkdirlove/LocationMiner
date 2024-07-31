@@ -1,6 +1,6 @@
 <div align="center">
     <img src="/images/icon.png" width="30%" />
-    <h1><strong>LocationMiner</strong></h1>
+    <h1><strong>Location Miner (Under Development)</strong></h1>
     <h3>Yet another powerful Android malware designed to track device location and send coordinates to telegram bot.</h3>
     <h4>This software is exclusively designed for educational purposes ⚠️</h4>
 </div>
